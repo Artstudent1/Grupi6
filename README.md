@@ -1,3 +1,4 @@
+Grupi 06
 # Tracker-i i Shpenzimeve Personale
 
 ## Përshkrimi
